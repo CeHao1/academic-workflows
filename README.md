@@ -22,7 +22,7 @@ academic-workflows/
 
 | Skill | Purpose | Key outputs |
 | --- | --- | --- |
-| `research-survey` | Turn a research topic, literature cluster, or frontier question into a structured survey, research viewpoint set, and publishable academic content | topic brief, research map, viewpoint memo, content pack, series plan |
+| `research-survey` | Turn a research topic, literature cluster, frontier question, company landscape, or product space into a comprehensive, evidence-based Markdown research report | topic brief, research map, viewpoint memo, deep research report, series plan |
 
 ## Supporting docs
 
@@ -33,9 +33,9 @@ academic-workflows/
 
 In a future Codex session, refer to the skill explicitly, for example:
 
-- `Use the research-survey skill to turn robot foundation model generalization into a 4-week content series.`
-- `Use the research-survey skill and give me a survey plus 5 X posts on dexterous manipulation.`
-- `Use the research-survey skill to extract publishable viewpoints from recent world-model-for-robotics papers.`
+- `Use the research-survey skill to turn robot foundation model generalization into a deep Markdown research report with key companies and products.`
+- `Use the research-survey skill and give me a research map plus a detailed report on dexterous manipulation, including the main teams and platforms.`
+- `Use the research-survey skill to extract evidence-backed viewpoints from recent world-model-for-robotics papers and compare them with the current product landscape in a Markdown report.`
 
 ## How to add a new skill
 
